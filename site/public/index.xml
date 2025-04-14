@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;author-alexander-l-cooper&#34;&gt;Author: Alexander L. Cooper&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://ukcoop.github.io&#34;&gt;ukcoop.github.io&lt;/a&gt; | &lt;a href=&#34;mailto:coop.main@protonmail.com&#34;&gt;coop.main@protonmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/notes/rewriting-dna-to-make-custom-monstrosities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/rewriting-dna-to-make-custom-monstrosities/</guid>
+      <description>&lt;p&gt;YouTube link: &lt;a href=&#34;https://youtube.com/watch?v=10OUPyamn1w&#34;&gt;Rewriting DNA to make custom monstrosities&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/paper/</guid>
+      <description>&lt;p&gt;This is the start of the paper i am going to write.&lt;/p&gt;&#xA;&lt;p&gt;i am writing some notes for this paper here: &lt;a href=&#34;//localhost:1313/notes/rewriting-dna-to-make-custom-monstrosities/&#34;&gt;Rewriting DNA to make custom monstrosities&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [ "gb_parser","sgdna_lib"]
+
+[profile.dev]
+opt-level = 3
+
+[profile.release]
+opt-level = 3

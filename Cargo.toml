@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = [ "gb_parser","sgdna_lib"]
+members = [ "PT_code_detector", "gb_parser", "sgdna_lib" ]
 
 [profile.dev]
 opt-level = 3

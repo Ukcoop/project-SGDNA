@@ -1,5 +1,5 @@
 [package]
-name = "gb_parser"
+name = "PT_code_detector"
 version = "0.1.0"
 edition = "2021"
 
